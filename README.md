@@ -11,5 +11,7 @@ Both the models YOLOR and YOLOv5 were trained on the same dataset with the same
 
 # Analysis:
 System info: Tesla T4, RAM: 12.68 GB
+
 YOLOv5 inference time: 6.739 ms, FPS : 148
+
 YOLOr inference time: 11.572 ms, FPS : 0.14
