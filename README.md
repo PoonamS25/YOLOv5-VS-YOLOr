@@ -10,8 +10,8 @@ Implicit knowledge can be defined as the detailed feature extraction from given 
 Both the models YOLOR and YOLOv5 were trained on the same dataset with the same hyper-parameters.
 
 # Analysis:
-System info: Tesla T4, RAM: 12.68 GB
+System info: Ubuntu 20.04, GPU: Tesla T4, RAM: 12.68 GB
 
-YOLOv5 inference time: 6.739 ms, FPS : 148
+YOLOv5 inference time: 14 ms, FPS : 14
 
-YOLOr inference time: 11.572 ms, FPS : 0.14
+YOLOr inference time: 32 ms, FPS : 17
